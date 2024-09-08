@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57a4fb7b-fa0b-4122-8db7-8dabfb1c92fc" name="Changes" comment="修改readme">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/01.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/03.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/04.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/05.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/06.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/07.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/08.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/09.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/common/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/common/LoginUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/common/ObjectTransfer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/common/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/config/FileConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/config/MybatisPlusConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerTypeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerTypeDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerTypeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerTypeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/flower/FlowerTypeQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserAddressController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserAddressDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserAddressMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserAddressModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserAddressQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graduation/user/UserQuery.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../software/maven-3.6.0" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\software\maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2lkKxE4zC0K9bKX5AunqPiOwjxC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hp/Desktop/flower-mall/src/main/java/com/graduation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "spring.configuration.checksum": "1ea289bcd795b08413a06699586aa4d2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\flower-mall\src\main\java\com\graduation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="flower-mall" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="flower-mall" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57a4fb7b-fa0b-4122-8db7-8dabfb1c92fc" name="Changes" comment="" />
+      <created>1725718884171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725718884171</updated>
+      <workItem from="1725718886613" duration="1190000" />
+      <workItem from="1725774183328" duration="813000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改readme">
+      <created>1725719469297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725719469297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="修改readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改readme" />
+  </component>
+</project>

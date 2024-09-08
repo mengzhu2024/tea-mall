@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/flower-mall?allowMultiQueries=true&characterEncoding=utf8&useUnicode=true
+    username: root
+    password: root
+  servlet:
+    multipart:
+      max-file-size: 10MB
+
+server:
+  port: 8999
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
